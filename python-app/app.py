@@ -1,3 +1,5 @@
+import platform
+
 print("Hello, World!")
 print("Welcome to Python Programming")
 print("Python application started.")
